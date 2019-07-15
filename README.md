@@ -4,7 +4,7 @@
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* [front-end](http://xyz.com)
+* [front-end](http://block5-restypt2.s3-website-us-west-2.amazonaws.com/)
 
 #### Documentation
 * styleguide - `npm run styleguide`
