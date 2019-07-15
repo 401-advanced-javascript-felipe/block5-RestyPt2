@@ -1,46 +1,33 @@
-# LAB - 
+## RESTy pt2
 
-## Project Name
-
-### Author: Student/Group Name
+### Author: Felipe Delatorre
 
 ### Links and Resources
 * [submission PR](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com) (when applicable)
-* [front-end](http://xyz.com) (when applicable)
+* [front-end](http://xyz.com)
 
 #### Documentation
-* [api docs](http://xyz.com) (API servers)
-* [jsdoc](http://xyz.com) (Server assignments)
-* [styleguide](http://xyz.com) (React assignments)
+* styleguide - `npm run styleguide`
 
-### Modules
-#### `modulename.js`
-##### Exported Values and Methods
+### Components
 
-###### `foo(thing) -> string`
-Usage Notes or examples
-
-###### `bar(array) -> array`
-Usage Notes or examples
+* `<app />`
+  * `<header />`
+  * `<resty />`
+    * `<history />`
+    * `<deck />`
+      * `<deckForm />`
+      * `<deckReactJSON />`
+  * `<footer />`
 
 ### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
+* `PORT` - Runs on port 3000
 
 #### Running the app
 * `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
-  
-#### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* Endpoint: `/`
+  * Returns a React application that can make API calls
 
 #### UML
-![](./assets/----.jpg)
+![](./assets/restyComponents.png)
+![](./assets/restyDataflow.png)
