@@ -3,7 +3,7 @@
 ### Author: Felipe Delatorre
 
 ### Links and Resources
-* [submission PR](http://xyz.com)
+* [submission PR](https://github.com/401-advanced-javascript-felipe/block5-RestyPt2/pull/1)
 * [front-end](http://block5-restypt2.s3-website-us-west-2.amazonaws.com/)
 
 #### Documentation
